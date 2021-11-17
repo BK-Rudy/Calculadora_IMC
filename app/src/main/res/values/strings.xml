@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_nome">Calculadora de IMC</string>
+    <string name="imc_calculadora">Calculadora de IMC</string>
+    <string name="homem">Homem</string>
+    <string name="peso_kg">Peso (kg)</string>
+    <string name="altura_cm">Altura (cm)</string>
+    <string name="_00">00</string>
+    <string name="calcule_seu_imc">Calcule o seu IMC</string>
+    <string name="seu_imc">Seu IMC</string>
+    <string name="calculo_imc_novamente">Calcule seu IMC novamente</string>
+</resources>
